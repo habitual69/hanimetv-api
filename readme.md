@@ -58,7 +58,7 @@ An asynchronous FastAPI-based API for accessing **Hanime.tv** content. This API 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hanime-tv-api.git
+   git clone https://github.com/habitual69/hanime-tv-api.git
    cd hanime-tv-api
    ```
 
