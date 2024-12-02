@@ -1,4 +1,3 @@
-```markdown
 # Hanime.tv API
 
 An asynchronous FastAPI-based API for accessing **Hanime.tv** content. This API provides endpoints to retrieve tags, videos by tags, and trending videos. The API supports caching for optimized performance and includes middleware for CORS and GZip compression.
